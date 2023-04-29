@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#ICEBERG-MASTER-PLAYLIST
+#ICEBERG-SERVER-IP: 3.82.115.77
+#EXT-X-STREAM-INF:BANDWIDTH=128000,CODECS="mp4a.40.2"
+https://prod-3-82-115-77.wostreaming.net/audacy-kcbsfmaac-hlsc.m3u8/?apv=a2&source=webA2&c_user_id=f8k:03f3a49f16288596a49c907cf250d1a8&deviceid=app:f8k:03f3a49f16288596a49c907cf250d1a8&streamsource=Amperwave&dist=Audacy&t_partner_ids=dW5kZWZpbmVk&z=3c0eb372c0664783939b1ed777146f47&p=1
+#EXT-X-STREAM-INF:BANDWIDTH=128000,CODECS="mp4a.40.2"
+https://prod-3-82-115-77.wostreaming.net/audacy-kcbsfmaac-hlsc.m3u8/?apv=a2&source=webA2&c_user_id=f8k:03f3a49f16288596a49c907cf250d1a8&deviceid=app:f8k:03f3a49f16288596a49c907cf250d1a8&streamsource=Amperwave&dist=Audacy&t_partner_ids=dW5kZWZpbmVk&z=3c0eb372c0664783939b1ed777146f47&p=2
